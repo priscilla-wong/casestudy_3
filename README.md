@@ -12,10 +12,10 @@ Betterment is a robo-advisor that optimizes a client's portfolio using primarily
 
 # Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
 
-As the demographic of younger clients increases, the popularity of robo-advisors will increase as well. Younger investors are more attracted to the accessibility to the capital markets via technology and the medium of the internet.
 
 # What is the prognosis for this company? Where do they expect to be in the future?
 
+As the demographic of younger clients increases, the popularity of robo-advisors will increase as well. Younger investors are more attracted to the accessibility to the capital markets via technology and the medium of the internet.
 
 # Contributors: Somya, Zeray, Yogesh, and Priscilla
 
