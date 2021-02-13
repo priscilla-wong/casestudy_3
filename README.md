@@ -1,7 +1,7 @@
 # casestudy_3
 Class 3 case study
 
-![Betterment Logo] (https://www.investopedia.com/thmb/nM8Cpv7lM_aYAg5HMKdvivO37wI=/2998x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Betterment-productcard-5c61e44bc9e77c00010a4e52.png)
+![Betterment Logo](https://www.investopedia.com/thmb/nM8Cpv7lM_aYAg5HMKdvivO37wI=/2998x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Betterment-productcard-5c61e44bc9e77c00010a4e52.png)
 
 # What is the background of your company? What do they do? Who are their competitors?
 
